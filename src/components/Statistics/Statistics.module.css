@@ -1,0 +1,8 @@
+.results {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.results p {
+    font-size: 1.4rem;
+}

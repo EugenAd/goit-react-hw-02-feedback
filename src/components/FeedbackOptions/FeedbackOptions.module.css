@@ -1,0 +1,11 @@
+.buttons{
+    display: flex;
+    gap : 10px;
+}
+.buttons button{
+    text-transform: capitalize;
+    cursor: pointer;
+    border-color: rgb(214, 214, 214);
+     padding: 4px;
+    border-radius: 4px;
+  }
